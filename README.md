@@ -23,6 +23,10 @@ In software development, obfuscation creates Source Code that cannot be read by 
 - [cython](https://cython.org/) - Cython is an optimising static compiler that takes your .py modules and translates them to high-performant C files. Resulting C files can be compiled into native binary libraries with no effort. When the compilation is done there’s no way to reverse compiled libraries back to readable Python source code. What distinguishes this option from the other is that this can be used is to make your code run faster rather than obfuscating it.
 ***
 
+## Available tutorials
+- [How to cythonise your code](https://github.com/kyaiooiayk/High-Performance-Computing-in-Python/blob/master/tutorials/cythonizing/GitHub_MD_rendering/How%20to%20cythonize%20your%20code.ipynb)
+***
+
 ## References
 - [Python source code obfuscation](https://medium.com/geekculture/python-source-code-obfuscation-6b97f88a460d)
 - [Hashing vs. Encryption vs. Encoding vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
